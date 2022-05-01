@@ -40,3 +40,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         f.setText("Fidiya To Be Piad: "+fidiy+"0.0RS");
     }
 }
+
+//fixes to do : oreintation , per salah calculator
